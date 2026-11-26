@@ -1,4 +1,4 @@
-# Diffusion Models in Medical Image Registration
+# Bridging Diffusion Models and LDDMM for Diffeomorphic Registration
 
 Implementation of my Bachelor's Thesis in Computer Science at the University of Zaragoza, developed in collaboration with the Instituto de Investigación en Ingeniería de Aragón (I3A) under the supervision of Prof. Mónica Hernández Giménez.
 
@@ -97,7 +97,7 @@ Each run creates a new folder `experiments/<name>_<timestamp>/` containing the `
 
 ```bibtex
 @thesis{naudin2026diffusion,
-  title={Diffusion Models in Medical Image Registration},
+  title={Bridging Diffusion Models and LDDMM for Diffeomorphic Registration},  
   author={Naudín López, Hugo},
   school={Universidad de Zaragoza},
   year={2026},
